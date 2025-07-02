@@ -1,0 +1,1000 @@
+ 1005  npm start
+ 1006  npm install
+ 1007  npm audit fix
+ 1008  git status
+ 1009  git branch
+ 1010  git checkout help
+ 1011  git checkout -b 'clement-dev'
+ 1012  git branch
+ 1013  npm start
+ 1014  npm run
+ 1015  npm run dev
+ 1016  npm run dev -- --verbose
+ 1017  vite --debug
+ 1018  npm run dev -- --verbose
+ 1019  npm run dev
+ 1020  npm run dev --host
+ 1021  git status
+ 1022  python manage.py runserver
+ 1023  npm run dev
+ 1024  npm run
+ 1025  npm start
+ 1026  git init
+ 1027  git add .
+ 1028  git commit -m 'feat: v1- just typing feature'
+ 1029  git add .
+ 1030  git commit -m 'feat: v1- just typing + timer'
+ 1031  history | grep shell
+ 1032  python manage.py tenant_command shell
+ 1033  python manage.py tenant_command shell --help
+ 1034  python manage.py tenant_command createsuperuser
+ 1035  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1036  python manage.py --help
+ 1037  python manage.py makemigrations
+ 1038  python manage.py migrate
+ 1039  sudo -u postgres psql
+ 1040  clear
+ 1041  python manage.py tenant_command
+ 1042  python manage.py help
+ 1043  python manage.py create_tenant_superuser
+ 1044  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1045  python manage.py runserver
+ 1046  python3 manage.py runserver
+ 1047  django-admin startproject core
+ 1048  django-admin startproject core .
+ 1049  python manage.py startapp core_tenant
+ 1050  python3 manage.py startapp core_tenant
+ 1051  python3 manage.py startapp account
+ 1052  pip3 install django-tenant
+ 1053  pip3 install django-tenants
+ 1054  pip install djangorestframework
+ 1055  clear
+ 1056  python3 manage.py makemigrations --shared
+ 1057  clear
+ 1058  python3 manage.py makemigrations --shared
+ 1059  'django_tenants.middleware.main.TenantMainMiddleware',d
+ 1060  pip install psycopg2-binary
+ 1061  python3 manage.py makemigrations --shared
+ 1062  python3 manage.py migrate_schemas --shared
+ 1063  python3 manage.py makemigrations
+ 1064  python3 manage.py migrate
+ 1065  python3 manage.py migrate_schemas --shared
+ 1066  python3 manage.py shell
+ 1067  python3 manage.py migrate_schemas --shared
+ 1068  python3 manage.py migrate_schemas
+ 1069  python3 manage.py migrate_schemas --tenants
+ 1070  python3 manage.py migrate_--schema=t1
+ 1071  python3 manage.py migrate_--schemas=t1
+ 1072  python3 manage.py help
+ 1073  python3 manage.py create_tenant_superuser
+ 1074  python3 manage.py help
+ 1075  python3 manage.py create_tenant
+ 1076  python3 manage.py create_tenant_superuser
+ 1077  python3 manage.py createsuperuser
+ 1078  python3 manage.py runserver
+ 1079  python3 manage.py runserver localhost:8000
+ 1080  python3 manage.py create_tenant_superuser
+ 1081  python3 manage.py create_tenant
+ 1082  python3 manage.py create_tenant_superuser
+ 1083  python3 manage.py migrate_--schemas=t1
+ 1084  python3 manage.py migrate_schemas
+ 1085  python3 manage.py makemigrations
+ 1086  python3 manage.py makemigrations --shared
+ 1087  python3 manage.py migrate_schemas
+ 1088  python3 manage.py makemigratins
+ 1089  python3 manage.py makemigrations
+ 1090  python3 manage.py migrate
+ 1091  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1092  clear
+ 1093  source venv/bin/activate
+ 1094  python manage.py --help
+ 1095  python manage.py migrate extras
+ 1096  python manage.py makemigrations
+ 1097  pip install -r requirements.txt 
+ 1098  pip install python-dotenv
+ 1099  pip freeze > requirements.txt 
+ 1100  python manage.py makemigrations
+ 1101  f
+ 1102  python manage.py makemigrations
+ 1103  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1104  python3 manage.py help
+ 1105  python3 manage.py tenant_command
+ 1106  python manage.py runserver
+ 1107  git clone https://github.com/Tomation-Solution/rel8manversion.git
+ 1108  npm -i
+ 1109  npm install
+ 1110  npm install @mui/icons-material@6.1.3
+ 1111  npm instal --force
+ 1112  npm run dev
+ 1113  source venv/bin/activate
+ 1114  sudo -u postgres psql
+ 1115  git branch
+ 1116  git checkout clement-dev 
+ 1117  source venv/bin/activate
+ 1118  python3 manage.py migrate
+ 1119  pip install -r requirements.txt 
+ 1120  clear
+ 1121  pip install --upgrade -r requirements.txt 
+ 1122  pip freeze > requirements
+ 1123  pip freeze --local | cut -d= -f1 | xargs -n1 pip install -U
+ 1124  pip install pip-tools
+ 1125  pip-compile --upgrade requirements
+ 1126  pip-compile --upgrade requirements.txt 
+ 1127  pip-compile --upgrade requirements.txt
+ 1128  pip-compile --upgrade
+ 1129  pip-compile --upgrade requirements.txt 
+ 1130  pip-compile --upgrade requirements.in 
+ 1131  pip-compile --upgrade
+ 1132  pip-sync 
+ 1133  pip freeze > requirements.txt 
+ 1134  pip-sync requirements.txt 
+ 1135  pip freeze > requirements.txt 
+ 1136  pip install --upgrade -r requirements.txt 
+ 1137  pip freeze > requirements2.txt 
+ 1138  python3 -m django --version
+ 1139  pip install -r requirements.txt --upgrade
+ 1140  git branch
+ 1141  git add . 
+ 1142  git commit -m 'added postgress link to cloud in the env file'
+ 1143  git add . 
+ 1144  git commit -m 'added postgress link to cloud in the env file'
+ 1145  python3 manage.py runserver
+ 1146  pip install -r requirements.txt -u
+ 1147  pip install -r requirements.txt --upgrade
+ 1148  source venv/bin/activate
+ 1149  pip install -r requirements.txt --upgrade
+ 1150  python3 manage.py runserver
+ 1151  python3 -m django --version
+ 1152  pip freeze | cut -d= -f1 | xargs -n1 pip install -U
+ 1153  which pip
+ 1154  which python3
+ 1155  deactivate 
+ 1156  which python3
+ 1157  source venv/bin/activate
+ 1158  which python3
+ 1159  ls -l venv/bin/python*
+ 1160  rm -rf venv/
+ 1161  rm -rf venv
+ 1162  deactivate 
+ 1163  which python3
+ 1164  python3 -m venv venv
+ 1165  which python3
+ 1166  source venv/bin/activate
+ 1167  which python3
+ 1168  pip install --upgrade -r requirements.txt
+ 1169  which python3
+ 1170  pip freeze | cut -d= -f1 > req2.txt
+ 1171  pip freeze | xargs pip uninstall -y
+ 1172  which pip
+ 1173  pip list
+ 1174  deactivate 
+ 1175  rm -rf venv/
+ 1176  rm -rf venv
+ 1177  clear
+ 1178  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1179  python3 -m venv venv
+ 1180  source venv/bin/activate
+ 1181  which pip
+ 1182  pip install --upgrade wheel
+ 1183  pip list
+ 1184  pip install -r req2.txt 
+ 1185  clear
+ 1186  pip install --upgrade --no-cache-dir -r req2.txt 
+ 1187  pip freeze > requirements.txt 
+ 1188  pip install drf-spectacular
+ 1189  pip freeze > requirements.txt 
+ 1190  clar
+ 1191  clear
+ 1192  git branch 
+ 1193  python manage.py runserver
+ 1194  pip install python-dotenv
+ 1195  pip freeze > requirements.txt 
+ 1196  python manage.py runserver
+ 1197  git branch 
+ 1198  git status
+ 1199  git commit -am 'fix: upgraded packages to latest version, added api documentation'
+ 1200  source venv/bin/activate
+ 1201  which pip
+ 1202  clear
+ 1203  python manage.py help
+ 1204  python manage.py create_tenant_superuser
+ 1205  clear
+ 1206  python manage.py help
+ 1207  python manage.py tenant_command
+ 1208  python manage.py --tenant_command
+ 1209  python manage.py tenant_command
+ 1210  python manage.py tenant_command shell
+ 1211  npm start
+ 1212  npm run
+ 1213  npm run dev
+ 1214  source venv/bin/activate
+ 1215  python manage.py makemigrations
+ 1216  python manage.py migrate
+ 1217  python manage.py help
+ 1218  python manage.py create_tenant_superuser
+ 1219  clear
+ 1220  python manage.py makemigrations
+ 1221  python manage.py migrate --schem=public
+ 1222  clear
+ 1223  which python3
+ 1224  source venv/bin/activate
+ 1225  which python3
+ 1226  rm -rf venv
+ 1227  deactivate 
+ 1228  rm -rf venv
+ 1229  clear
+ 1230  python3 -m venv venv
+ 1231  source venv/bin/activate
+ 1232  which pip
+ 1233  pip freeze | cut -d= -f1 > requirements2.txt
+ 1234  pip install --upgrade --no-cache-dir -r requirements.txt
+ 1235  pip list
+ 1236  which pip
+ 1237  cat requirements.txt | cut -d= -f1 > requirements2.txt
+ 1238  pip install --upgrade --no-cache-dir -r requirements2.txt
+ 1239  pip freeze > requirements.txt
+ 1240  clear
+ 1241  python manage.py runserver
+ 1242  python manage.py migrate
+ 1243  python manage.py showmigrations event
+ 1244  python manage.py migrate event 0008 --fake
+ 1245  python manage.py showmigrations event
+ 1246  python manage.py migrate event 0008_event_public_alter_event_address_publicevent --fake
+ 1247  git status
+ 1248  git add .
+ 1249  git commit -m 'fix: edited the util/permission.py to avoid attempting user.user_type on anonymous user'
+ 1250  clear
+ 1251  python manage.py runserver
+ 1252  clear
+ 1253  python manage.py runserver
+ 1254  clear
+ 1255  python manage.py runserver
+ 1256  git branch
+ 1257  git checkout -b 'clement-dev'
+ 1258  npm run
+ 1259  npm start
+ 1260  sudo gparted
+ 1261  [200~sudo apt update && sudo apt install gparted -y
+ 1262  sudo apt update && sudo apt install gparted -y
+ 1263  sudo apt install gparted -y
+ 1264  gparted 
+ 1265  sudo gparted 
+ 1266  sudo apt install samba
+ 1267  sudo nano /etc/samba/smb.conf 
+ 1268  sudo systemctl restart smbd
+ 1269  sudo apt install minidlna 
+ 1270  sudo nano /etc/minidlna.conf
+ 1271  sudo systemctl restart minidlna
+ 1272  ifconfig 
+ 1273  python manage.py makemigrations
+ 1274  python manage.py migrate --schema=public
+ 1275  python manage.py migrate_schemas --tenant
+ 1276  python manage.py migrate --fake Dueapp
+ 1277  python manage.py migrate_schemas --tenant
+ 1278  cler
+ 1279  clear
+ 1280  python manage.py migrate_schemas --shared
+ 1281  python manage.py migrate
+ 1282  python manage.py migrate --fake-initial
+ 1283  python manage.py makemigrations
+ 1284  python manage.py runserver
+ 1285  python manage.py makemigrations
+ 1286  python manage.py migrate --fake-initial
+ 1287  python manage.py makemigrations
+ 1288  python manage.py showmigrations
+ 1289  python manage.py migrate contenttypes --fake
+ 1290  clar
+ 1291  clear
+ 1292  pg_dump -U postgres -h 5432 -W -F c -b -v -f backup_file.dump rel8services
+ 1293  pg_dump -U postgres -h rel8.watchdoglogisticsng.com -W -F c -b -v -f backup_file.dump rel8services
+ 1294  apt list --installed | grep postgresql
+ 1295  sudo apt update
+ 1296  sudo apt install postgresql-client-16
+ 1297  echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" | sudo tee /etc/apt/sources.list.d/pgdg.list
+ 1298  wget -qO - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo tee /etc/apt/trusted.gpg.d/postgresql.asc
+ 1299  sudo apt update
+ 1300  [200~pg_dump --version
+ 1301  pg_dump --version
+ 1302  sudo apt install postgresql-client-16
+ 1303  pg_dump --version
+ 1304  sudo apt install postgresql-client-16
+ 1305  pg_dump --version
+ 1306  g
+ 1307  /usr/bin/pg_dump-16 --version
+ 1308  /usr/bin/pg_dump-16 -U postgres -h rel8.watchdoglogisticsng.com -W -F c -b -v -f backup_file.dump rel8services
+ 1309  pg_dump -U postgres -h rel8.watchdoglogisticsng.com -W -F c -b -v -f backup_file.dump rel8services
+ 1310  python manage.py runserver
+ 1311  clear
+ 1312  python manage.py runserver
+ 1313  grep -rn "from event.models import PublicEvent" .
+ 1314  grep -rn "from event.models import PublicEvent"
+ 1315  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1316  git status
+ 1317  git add .
+ 1318  git commit -m 'feat: added meeting link feature for members to click directly'
+ 1319  npm run dev
+ 1320  sudo -u postgres psql
+ 1321  npm start
+ 1322  clear
+ 1323  ls
+ 1324  ./release.sh 
+ 1325  python manage.py spectacular --color --file schema.yaml
+ 1326  python manage.py help
+ 1327  python manage.py create_tenant
+ 1328  python manage.py help
+ 1329  python manage.py create_tenant_superuser
+ 1330  python manage.py help
+ 1331  python manage.py create_tenant_superuser
+ 1332  python manage.py help
+ 1333  python manage.py tenant_command
+ 1334  python manage.py tenant_command shell
+ 1335  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1336  git commit -m 'feat: added meeting link feature for members to click directly'
+ 1337  which python
+ 1338  source venv/bin/activate
+ 1339  which python
+ 1340  python manage.py migrate
+ 1341  python manage.py showmigrations
+ 1342  python manage.py migrate
+ 1343  python makemigrations
+ 1344  python manage.py makemigrations
+ 1345  python manage.py migrate_schemas --shared
+ 1346  python manage.py migrate_schemas --tenant
+ 1347  python manage.py migrate_schemas
+ 1348  clear
+ 1349  python manage.py runsever
+ 1350  python manage.py runserver
+ 1351  clear
+ 1352  python manage.py runserver
+ 1353  clear
+ 1354  python manage.py runserver
+ 1355  clear
+ 1356  python manage.py runserver
+ 1357  clear
+ 1358  python manage.py runserver
+ 1359  clear
+ 1360  python manage.py runserver
+ 1361  clear
+ 1362  python manage.py runserver
+ 1363  clear
+ 1364  python manage.py runserver
+ 1365  clear
+ 1366  python manage.py runserver
+ 1367  clear
+ 1368  python manage.py runserver
+ 1369  which python
+ 1370  which pip
+ 1371  deactivate 
+ 1372  python manage.py startapp publication
+ 1373  clear
+ 1374  git stataus
+ 1375  git status
+ 1376  git add .
+ 1377  git commit -m 'fix: removed duplicate event.PublicEvent model'
+ 1378  which python3
+ 1379  python3 -m 
+ 1380  python3 -m venv help
+ 1381  rm -rf help
+ 1382  python3 -m venv venv
+ 1383  source venv/bin/activate
+ 1384  wihich python
+ 1385  which python
+ 1386  pip list
+ 1387  pip install pipreqs
+ 1388  pipreqs . --force
+ 1389  pip install -r requirements.txt 
+ 1390  history | grep pip > useful_pip_command.txt
+ 1391  clear
+ 1392  python manage.py runserver
+ 1393  pipreqs . --force
+ 1394  pip install psycopg2-binary
+ 1395  pip freeze > requirements.txt 
+ 1396  clear
+ 1397  python manage.py runserver
+ 1398  clear
+ 1399  python manage.py runserver
+ 1400  clear
+ 1401  python manage.py runserver
+ 1402  python manage.py tenant_command shell
+ 1403  clear
+ 1404  python manage.py tenant_command shell
+ 1405  "/home/idemudo-ubuntu/Documents/django projects/dj_tenant2_practice/venv/bin/python"
+ 1406  python manage.py makemigrations
+ 1407  python manage.py migrate
+ 1408  python manage.py makemigrations
+ 1409  python manage.py migrate
+ 1410  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1411  dectivat
+ 1412  deaaaaaaaaaaaaaaaac
+ 1413  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1414  npm help
+ 1415  npx
+ 1416  npx help
+ 1417  npm crate vite react-learn
+ 1418  npm create vite react-learn
+ 1419  npm create vite@latest react-learn
+ 1420  npm create react-learn
+ 1421  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1422  git status
+ 1423  git init
+ 1424  git add .
+ 1425  git status
+ 1426  git commit -m 'first commit with django-tenant function via subdomain approach'
+ 1427  git checkout -b 'feat: django-tenant subfolder approach'
+ 1428  git checkout -b subfolder-approach
+ 1429  python manage.py help
+ 1430  python manage.py create_tenant_superuser
+ 1431  git add .
+ 1432  git commit -m 'feat: successfully configured django-tenant subfolder approach'
+ 1433  git branch 
+ 1434  git checkout master 
+ 1435  python manage.py makemigrations
+ 1436  python manage.py runserver
+ 1437  ls ~/.config/autostart/
+ 1438  ls ~/.config/autostart
+ 1439  python manage.py createsuperuser
+ 1440  python manage.py makemigrations
+ 1441  python manage.py migrate
+ 1442  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1443  pip3 install wagtail
+ 1444  wagtail start core .
+ 1445  python3 -m venv env
+ 1446  source env/bin/activate
+ 1447  pip install -r requirements.txt 
+ 1448  clear
+ 1449  python manage.py makemigrations
+ 1450  python manage.py migrate
+ 1451  python manage.py runserver
+ 1452  python manage.py migrate
+ 1453  clear
+ 1454  python manage.py runserver
+ 1455  python manage.py runserver localhost:80
+ 1456  python manage.py runserver localhost:8000
+ 1457  python manage.py runserver
+ 1458  lpip list
+ 1459  deactivate
+ 1460  source env/bin/activate
+ 1461  deactivate 
+ 1462  wagtail start core .
+ 1463  python3 manage.py startapp account
+ 1464  python3 manage.py startapp core_tenant
+ 1465  clear
+ 1466  python3 manage.py help
+ 1467  python3 manage.py migrate_schemas
+ 1468  python3 manage.py migrate_makemigrations
+ 1469  python3 manage.py makemigrations
+ 1470  python3 manage.py migrate
+ 1471  python3 manage.py migrate_schemas
+ 1472  python3 manage.py makemigrations
+ 1473  python3 manage.py help
+ 1474  python3 manage.py migrate_schemas
+ 1475  python3 manage.py migrate
+ 1476  clear
+ 1477  python3 manage.py help
+ 1478  python3 manage.py create_tenant
+ 1479  python3 manage.py migrate_schemas
+ 1480  python3 manage.py migrate_schemas --shared
+ 1481  python3 manage.py makemigrations core_tenant
+ 1482  python3 manage.py migrate_schemas --shared
+ 1483  clear
+ 1484  python3 -m env env
+ 1485  python3 -m venv venv
+ 1486  source venv/bin/activate
+ 1487  pip install django-tenants
+ 1488  pip install -r requirements.txt 
+ 1489  which python
+ 1490  pip install -r requirements.txt 
+ 1491  pip freeze > requirements2.txt 
+ 1492  python3 manage.py migrate_schemas --shared
+ 1493  pip install psycopg2-binary
+ 1494  pip freeze > requirements2.txt 
+ 1495  python3 manage.py migrate_schemas --shared
+ 1496  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1497  source env/bin/activate
+ 1498  python manage.py runserver
+ 1499  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1500  clear
+ 1501  sudo -u postgres psql 
+ 1502  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1503  "/home/idemudo-ubuntu/Documents/official work/law firm site/venv/bin/python"
+ 1504  source env/bin/activate
+ 1505  source venv/bin/activate
+ 1506  deactivate 
+ 1507  python manage.py makemigrations
+ 1508  python manage.py makemigrations home
+ 1509  python manage.py migrate --fake
+ 1510  # Drop the DB or recreate it
+ 1511  # Or flush it safely if you want
+ 1512  python manage.py migrate --fake home zero
+ 1513  python manage.py migrate --fake wagtailcore zero
+ 1514  # Then reapply in correct order
+ 1515  python manage.py migrate
+ 1516  python manage.py migrate --fake home zero
+ 1517  python manage.py migrate --fake wagtailcore zero
+ 1518  python manage.py migrate
+ 1519  python manage.py makemigrations
+ 1520  python manage.py makemigrations home
+ 1521  python manage.py makemigrations
+ 1522  python manage.py migrate
+ 1523  python manage.py makemigrations
+ 1524  python manage.py migrate
+ 1525  pip install whitenoise
+ 1526  pip freeze > requirements.txt
+ 1527  python manage.py collectstatic
+ 1528  clear
+ 1529  python manage.py startapp firm_detail
+ 1530  git init
+ 1531  git add .
+ 1532  git commit -m 'setup django-tenant and django-wagtail successfully'
+ 1533  source venv/bin/activate
+ 1534  python manage.py makemigrations core_tenant
+ 1535  python manage.py migrate_schemas --shared
+ 1536  python manage.py migrate
+ 1537  python manage.py makemigrations
+ 1538  python manage.py makemigrations home
+ 1539  python manage.py makemigrations account/
+ 1540  python manage.py makemigrations account
+ 1541  python manage.py makemigrations search
+ 1542  python manage.py migrate
+ 1543  python manage.py migrate_schemas --shared
+ 1544  clear
+ 1545  python manage.py help
+ 1546  python manage.py create_tenant
+ 1547  python manage.py help
+ 1548  python manage.py create_tenant
+ 1549  python manage.py create_tenant_superuser
+ 1550  python manage.py runserver
+ 1551  python manage.py makemigrations
+ 1552  python manage.py makemigrations blog
+ 1553  python manage.py migrate
+ 1554  python manage.py makemigrations
+ 1555  python manage.py migrate
+ 1556  python manage.py makemigrations
+ 1557  python manage.py migrate
+ 1558  python manage.py makemigrations
+ 1559  python manage.py migrate
+ 1560  python manage.py startapp blog
+ 1561  python manage.py makemigrations
+ 1562  clear
+ 1563  python manage.py makemigrations
+ 1564  python manage.py migrate
+ 1565  python manage.py runserver
+ 1566  clar
+ 1567  clear
+ 1568  python manage.py runserver
+ 1569  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1570  python manage.py help
+ 1571  python manage.py tenant_command shell
+ 1572  git status
+ 1573  git add .
+ 1574  git commit -m 'feat: almost completing customizing landing page'
+ 1575  python manage.py makemigrations
+ 1576  python manage.py migrate
+ 1577  python manage.py makemigrations
+ 1578  python manage.py migrate
+ 1579  python manage.py makemigrations
+ 1580  python manage.py migrate
+ 1581  python manage.py makemigrations
+ 1582  python manage.py migrate
+ 1583  python manage.py makemigrations
+ 1584  python manage.py migrate
+ 1585  python manage.py makemigrations
+ 1586  python manage.py migrate
+ 1587  python manage.py makemigrations
+ 1588  python manage.py migrate
+ 1589  python manage.py makemigrations
+ 1590  python manage.py migrate
+ 1591  python manage.py runserver
+ 1592  clear
+ 1593  python manage.py runserver
+ 1594  python manage.py makemigrations
+ 1595  python manage.py migrate
+ 1596  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1597  python manage.py runserver
+ 1598  clear
+ 1599  python manage.py runserver
+ 1600  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1601  python manage.py runserver
+ 1602  clear
+ 1603  python manage.py runserver
+ 1604  clear
+ 1605  python manage.py runserver
+ 1606  git status
+ 1607  git add .
+ 1608  git commit -m 'started syling the blog page, initial styls'
+ 1609  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1610  ifconfig 
+ 1611  python manage.py runserver 192.168.1.152:8000
+ 1612  python manage.py runserver
+ 1613  clear
+ 1614  python manage.py runserver
+ 1615  source venv/bin/activate
+ 1616  deactivate 
+ 1617  python manage.py runserver
+ 1618  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1619  python manage.py runserver
+ 1620  git status
+ 1621  git add .
+ 1622  git commit -m 'sucessfully inserted blog_index_page into my landing page'
+ 1623  git branch
+ 1624  git branch sub_folder_tenant
+ 1625  git checkout  sub_folder_tenant
+ 1626  clear
+ 1627  git status
+ 1628  git branch
+ 1629  git checkout subfolder-approach 
+ 1630  git status
+ 1631  git add .
+ 1632  git commit - m 'sucessfully configure subfolder routing over subdomain'
+ 1633  git commit -m 'sucessfully configure subfolder routing over subdomain'
+ 1634  git branch 
+ 1635  git checkout main
+ 1636  git checkout master 
+ 1637  git merge sub_folder_tenant 
+ 1638  git status
+ 1639  git add .
+ 1640  git commit -m 'trivial change'
+ 1641  git merge sub_folder_tenant 
+ 1642  git status
+ 1643  git add .
+ 1644  git commit -m 'merge conflict'
+ 1645  git status
+ 1646  git add .
+ 1647  git commit -m 'successsfully remove help,reports links from panel to other user except admin, also customized login page to reflect custom name instead of wagtail'
+ 1648  git rm -r --cached 
+ 1649  git rm -r  --cached 
+ 1650  git rm -r  --cached .
+ 1651  git status
+ 1652  git add .
+ 1653  git status 
+ 1654  git commit -m 'clean up tracked files, apply .gitignore'
+ 1655  clear
+ 1656  python manage.py help
+ 1657  pip install python-dotenv
+ 1658  pip freeze > requirements.txt 
+ 1659  git push origin main 
+ 1660  git commit -m 'configured .env'
+ 1661  clear
+ 1662  python manage.py help
+ 1663  python manage.py shell
+ 1664  python manage.py help
+ 1665  python manage.py create_tenant
+ 1666  python manage.py help
+ 1667  python manage.py create_tenant_superuser
+ 1668  python manage.py runserver
+ 1669  clear
+ 1670  python manage.py runserver
+ 1671  python manage.py migrate_schemas --shared
+ 1672  clear
+ 1673  python manage.py migrate_schemas --shared
+ 1674  clear
+ 1675  python manage.py runserver
+ 1676  clear
+ 1677  python manage.py runserver
+ 1678  clear
+ 1679  python manage.py runserver
+ 1680  python -c "from django.conf import settings; print(settings.SETTINGS_MODULE)"
+ 1681  python manage.py runserver
+ 1682  ping dpg-cvqg0fpr0fns73epibdg-a
+ 1683  python manage.py runserver
+ 1684  python manage.py migrate
+ 1685  python manage.py migrate_schemas --shared
+ 1686  python manage.py runserver
+ 1687  deactivate 
+ 1688  source venv/bin/activate
+ 1689  python manage.py runserver
+ 1690  source e env
+ 1691  source .env 
+ 1692  python manage.py runserver
+ 1693  whichchpython
+ 1694  whichch python
+ 1695  which python
+ 1696  python manage.py runserver
+ 1697  python
+ 1698  clear
+ 1699  python manage.py shell
+ 1700  clear
+ 1701  python manage.py runserver
+ 1702  clear
+ 1703  python manage.py runserver
+ 1704  clear
+ 1705  python manage.py runserver
+ 1706  clear
+ 1707  python manage.py runserver
+ 1708  clear
+ 1709  python manage.py runserver
+ 1710  python manage.py shell
+ 1711  python manage.py tenant_command
+ 1712  python manage.py createtenantsuperuser
+ 1713  python manage.py create_tenant_superuser
+ 1714  python manage.py makemigrations
+ 1715  python manage.py migrate
+ 1716  python manage.py help
+ 1717  python manage.py create_tenant
+ 1718  clear
+ 1719  git status
+ 1720  git add .
+ 1721  git commit -m 'fix: edited the index page'
+ 1722  git remote add origin https://github.com/Clemcy9/lawfirm-tenants-cms.git
+ 1723  git branch -M main
+ 1724  git push -u origin main
+ 1725  chmod a+x build.sh 
+ 1726  git add .
+ 1727  git commit -m 'added build.sh file'
+ 1728  git push -u origin main
+ 1729  git add .
+ 1730  git commit -m 'added build.sh file edited'
+ 1731  pip install gunicorn uvicorn
+ 1732  pip install dj-database-url
+ 1733  pip freeze > requirements.txt 
+ 1734  python -m gunicorn core:asgi:application -k uvicorn.workers.UvicornWorker
+ 1735  python -m gunicorn core:wsgi:application -k uvicorn.workers.UvicornWorker
+ 1736  python -m gunicorn core.wsgi:application -k uvicorn.workers.UvicornWorker
+ 1737  python -m gunicorn core.wsgi:application
+ 1738  git push -u origin main
+ 1739  git sta
+ 1740  git status 
+ 1741  git add .
+ 1742  git commit -m 'fix: db related issues when using render db'
+ 1743  git push origin main 
+ 1744  git add .
+ 1745  git commit -m 'fix: db related issues when using render db2'
+ 1746  git push origin main 
+ 1747  clear
+ 1748  python manage.py migrate wagtailcore
+ 1749  python manage.py migrate
+ 1750  python manage.py showmigrations wagtailcore
+ 1751  python manage.py migrate_schemas --tenant
+ 1752  git status
+ 1753  git add .
+ 1754  git commit -m 'trying to fix errors related to .map'
+ 1755  wagtail startproject core .
+ 1756  wagtail help
+ 1757  wagtail start core .
+ 1758  python3 -m venv venv
+ 1759  source venv/bin/activate
+ 1760  pip install django-pwa
+ 1761  pip install -r requirements.txt 
+ 1762  django-admin start app account
+ 1763  django-admin startapp account
+ 1764  python manage.py makemigrations
+ 1765  python manage.py migrate
+ 1766  python manage.py runserver
+ 1767  python manage.py migrate
+ 1768  python manage.py makemigrations
+ 1769  clear
+ 1770  python manage.py makemigrations
+ 1771  python manage.py migrate
+ 1772  python manage.py runserver
+ 1773  clear
+ 1774  python manage.py runserver
+ 1775  python manage.py makemigrations
+ 1776  python manage.py runserver
+ 1777  clear
+ 1778  python manage.py runserver
+ 1779  clear
+ 1780  python manage.py runserver
+ 1781  clear
+ 1782  python manage.py runserver
+ 1783  clear
+ 1784  python manage.py runserver
+ 1785  clear
+ 1786  python manage.py runserver
+ 1787  clear
+ 1788  python manage.py runserver
+ 1789  clear
+ 1790  python manage.py runserver
+ 1791  clear
+ 1792  python manage.py runserver
+ 1793  clear
+ 1794  python manage.py runserver
+ 1795  clear
+ 1796  python manage.py runserver
+ 1797  clear
+ 1798  python manage.py runserver
+ 1799  clear
+ 1800  python manage.py runserver
+ 1801  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1802  source venv/bin/activate
+ 1803  git add .
+ 1804  git init
+ 1805  git add .
+ 1806  git commit -m 'feat: removed the pages tab from admin page'
+ 1807  git log
+ 1808  git checkout 26b1f81184ff27e9072b436e0af607f262c3e66f
+ 1809  git log
+ 1810  git status
+ 1811  git add .
+ 1812  git commit -m 'feat: successfully configured voucher via snippets'
+ 1813  clear
+ 1814  python manage.py runserver
+ 1815  clear
+ 1816  python manage.py runserver
+ 1817  clear
+ 1818  python manage.py runserver
+ 1819  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1820  clear
+ 1821  which python
+ 1822  clear
+ 1823  python manage.py runserver
+ 1824  clear
+ 1825  python manage.py runserver
+ 1826  clear
+ 1827  python manage.py runserver
+ 1828  clear
+ 1829  python manage.py runserver
+ 1830  clear
+ 1831  python manage.py runserver
+ 1832  clear
+ 1833  python manage.py runserver
+ 1834  clear
+ 1835  python manage.py runserver
+ 1836  git status
+ 1837  git add .
+ 1838  git commit -m 'trying to fix issues with collectstatic'
+ 1839  clear
+ 1840  python manage.py makemigrations
+ 1841  python manage.py migrate
+ 1842  python manage.py help
+ 1843  python manage.py migrate_schemas
+ 1844  python manage.py migrate_schemas --shared
+ 1845  python manage.py migrate --shared
+ 1846  python manage.py migrate
+ 1847  clear
+ 1848  python manage.py runserver
+ 1849  clear
+ 1850  python manage.py runserver
+ 1851  clear
+ 1852  python manage.py runserver
+ 1853  clear
+ 1854  sudo -u postgres psql 
+ 1855  python manage.py runserver
+ 1856  sudo -u postgres psql 
+ 1857  clear
+ 1858  python manage.py runserver
+ 1859  clear
+ 1860  python manage.py runserver
+ 1861  clear
+ 1862  sudo -u postgres psql 
+ 1863  clear
+ 1864  sudo -u postgres psql 
+ 1865  clear
+ 1866  python manage.py makemigrations
+ 1867  python manage.py migrate
+ 1868  python manage.py collectstatic --noinput
+ 1869  clear
+ 1870  python manage.py collectstatic
+ 1871  python manage.py collectstatic --noinput
+ 1872  python manage.py collectstatic
+ 1873  python manage.py migrate
+ 1874  python manage.py collectstatic
+ 1875  rm -rf /home/idemudo-ubuntu/Documents/official\ work/law\ firm\ site/staticfiles
+ 1876  find . -name staticfiles.json -delete
+ 1877  python manage.py collectstatic
+ 1878  grep -r "sourceMappingURL"
+ 1879  python manage.py collectstatic
+ 1880  rm -rf staticfiles/
+ 1881  find . -name staticfiles.json -delete
+ 1882  python manage.py collectstatic
+ 1883  clera
+ 1884  clean
+ 1885  clear
+ 1886  python manage.py collectstatic
+ 1887  deactivate 
+ 1888  python manage.py runsever
+ 1889  python manage.py runserver
+ 1890  python manage.py collectstatic
+ 1891  python manage.py collectstatic no-input
+ 1892  python manage.py collectstatic --noinput
+ 1893  source venv/bin/activate
+ 1894  python manage.py collectstatic --noinput
+ 1895  clear
+ 1896  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1897  python manage.py runserver
+ 1898  python manage.py runserver 192.168.43.240:8000
+ 1899  python manage.py runserver
+ 1900  ifconfig 
+ 1901  git status
+ 1902  git add .
+ 1903  git commit -m 'feat: snippet voucher working perfectly'
+ 1904  python manage.py create_tenant_superuser
+ 1905  python -m gunicorn core.wsgi:application
+ 1906  clear
+ 1907  python -m gunicorn core.wsgi:application
+ 1908  clear
+ 1909  git add .
+ 1910  python -m gunicorn core.wsgi:application
+ 1911  clear
+ 1912  python -m gunicorn core.wsgi:application
+ 1913  python manage.py runserver
+ 1914  clear
+ 1915  python manage.py runserver
+ 1916  clear
+ 1917  python -m gunicorn core.wsgi:application
+ 1918  git add .
+ 1919  git commit -m 'fix: still on db issues'
+ 1920  git add .
+ 1921  git commit -m 'fix: still on db issues'
+ 1922  git commit -m 'fix: still on db issues2'
+ 1923  git push origin main 
+ 1924  git add .
+ 1925  git commit -m 'db fix trial4'
+ 1926  git push origin main 
+ 1927  git add .
+ 1928  git commit -m 'changed from .dev to .production in wsgi.py'
+ 1929  git push origin main 
+ 1930  git add .
+ 1931  git commit -m 'added allowed host for production.py'
+ 1932  git push origin main 
+ 1933  git commit -m 'fix: working on debugging logs on prod'
+ 1934  git push origin main 
+ 1935  git add .
+ 1936  git commit -m 'feat:prod db conf. working'
+ 1937  git add .
+ 1938  git commit -m 'feat: created a single source of truth for choosing between dev/prod env in the .env file'
+ 1939  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1940  python
+ 1941  python3
+ 1942  /bin/python3 "/home/idemudo-ubuntu/Documents/flask projects/flask-01/app.py"
+ 1943  python
+ 1944  python -m gunicorn core.wsgi:application
+ 1945  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1946  uvicorn main:app
+ 1947  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1948  python manage.py help
+ 1949  python manage.py dumpdata data.txt
+ 1950  python manage.py dumpdata 
+ 1951  python manage.py dumpdata account
+ 1952  python manage.py dumpdata account > data_account.txt
+ 1953  python manage.py dumpdata  > data.txt
+ 1954  python manage.py help
+ 1955  python manage.py inspectdb
+ 1956  python manage.py inspectdb > utils/db_structure.py
+ 1957  python manage.py inspectdb > db_structure.py
+ 1958  node main.js 
+ 1959  node
+ 1960  /bin/python3 /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/idemudo-ubuntu/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash/envVars.txt
+ 1961  ls
+ 1962  cd fastapi-book-project/
+ 1963  source venv/bin/activate
+ 1964  uvicorn main:app
+ 1965  uvicorn help
+ 1966  uvicorn main:app 10.10.10.85:8000
+ 1967  uvicorn main:app --host 10.10.10.85 --port 8000
+ 1968  ifconfig 
+ 1969  node main.js 
+ 1970  sudo apt install xserver-xorg-video-dummy
+ 1971  sudo nano /etc/X11/xorg.conf
+ 1972  sudo reboot
+ 1973  Xvfb :1 -screen 0 1920x1080x24 &
+ 1974  sudo apt install xvfb
+ 1975  Xvfb :1 -screen 0 1920x1080x24 &
+ 1976  Xvfb :2 -screen 0 1920x1080x24 &
+ 1977  export DISPLAY=:2
+ 1978  Xvfb :2 -screen 0 1920x1080x24
+ 1979  ps aux | grep X
+ 1980  clear
+ 1981  xrandr
+ 1982  cvt 1920 1080
+ 1983  xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+ 1984  xrandr --output VIRTUAL1 --mode 1920x1080_60.00 --right-of eDP1
+ 1985  xrandr --addmode VIRTUAL1 1920x1080_60.00
+ 1986  xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+ 1987  xrandr --addmode VIRTUAL1 1920x1080_60.00
+ 1988  xrandr 
+ 1989  xrandr --addmode VIRTUAL1 1920x1080_60.00
+ 1990  lspci | grep VGA
+ 1991  Xvfb :99 -screen 0 1920x1080x24
+ 1992  Xvfb :99 -screen 0 1920x1080x24 &
+ 1993  export DISPLAY=:99
+ 1994  sudo modprobe vkms
+ 1995  xrandr 
+ 1996  sudo modprobe vkms
+ 1997  xrandr 
+ 1998  ls
+ 1999  cd ..
+ 2000  touch roughdocs.txt
+ 2001  xrandr 
+ 2002  xrandr --help
+ 2003  history grep xrandr > xrandr.txt
+ 2004  history > history.txt

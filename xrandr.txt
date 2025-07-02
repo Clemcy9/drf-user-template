@@ -1,0 +1,14 @@
+ 1981  xrandr
+ 1983  xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+ 1984  xrandr --output VIRTUAL1 --mode 1920x1080_60.00 --right-of eDP1
+ 1985  xrandr --addmode VIRTUAL1 1920x1080_60.00
+ 1986  xrandr --newmode "1920x1080_60.00"  173.00  1920 2048 2248 2576  1080 1083 1088 1120 -hsync +vsync
+ 1987  xrandr --addmode VIRTUAL1 1920x1080_60.00
+ 1988  xrandr 
+ 1989  xrandr --addmode VIRTUAL1 1920x1080_60.00
+ 1995  xrandr 
+ 1997  xrandr 
+ 2001  xrandr 
+ 2002  xrandr --help
+ 2003  history grep xrandr > xrandr.txt
+ 2005  history | grep xrandr > xrandr.txt
